@@ -1,6 +1,6 @@
-# BE SERVICES LTD
+# REGIIS SERVICES UK LTD
 
-Interior design website for BE SERVICES LTD, Greenford, London.
+Interior design website for REGIIS SERVICES UK LTD, 70 White Lion Street, London N1 9PP.
 
 Built with Vite, React, TypeScript and TanStack Router. Static SPA deployed on Vercel.
 

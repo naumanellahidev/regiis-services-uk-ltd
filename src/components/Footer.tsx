@@ -11,7 +11,7 @@ export function Footer() {
       <div className="container footer-grid">
         <div className="footer-brand">
           <Logo />
-          <p>An interior design business based in Greenford, London, focused on thoughtful, comfortable and well-considered residential spaces.</p>
+          <p>An interior design business based in Islington, London, focused on thoughtful, comfortable and well-considered residential spaces.</p>
           <ul className="footer-contact">
             <li><Phone size={16} aria-hidden="true" /><a href={business.tel}>{business.phoneDisplay}</a></li>
             <li><Mail size={16} aria-hidden="true" /><a href={business.mailto}>{business.email}</a></li>
@@ -44,7 +44,7 @@ export function Footer() {
         </div>
       </div>
       <div className="container footer-bottom">
-        <p>© 2026 BE SERVICES LTD. All rights reserved.</p>
+        <p>© 2026 REGIIS SERVICES UK LTD. All rights reserved.</p>
       </div>
     </footer>
   )

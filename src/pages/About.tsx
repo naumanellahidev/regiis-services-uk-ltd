@@ -12,13 +12,13 @@ const values = [
 ]
 
 export function About() {
-  usePageMeta('About', 'Learn about BE SERVICES LTD, an interior design business in Greenford, London, focused on thoughtful, functional and harmonious interiors.')
+  usePageMeta('About', 'Learn about REGIIS SERVICES UK LTD, an interior design business in Islington, London, focused on thoughtful, functional and harmonious interiors.')
   return (
     <>
       <PageHero
         eyebrow="About Us"
-        title="Welcome to BE SERVICES LTD"
-        text="We are an interior design business based in Greenford, London, with a simple focus: creating residential interiors that feel considered, comfortable and beautifully balanced."
+        title="Welcome to REGIIS SERVICES UK LTD"
+        text="We are an interior design business based in Islington, London, with a simple focus: creating residential interiors that feel considered, comfortable and beautifully balanced."
         photo={photos.roundedLiving}
         alt="Soft cream living room with curved seating, a round coffee table and woven wall decorations"
       />

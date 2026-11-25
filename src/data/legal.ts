@@ -4,8 +4,8 @@ export type LegalPage = { slug: string; title: string; summary: string; sections
 const contact: LegalSection = {
   heading: 'Contact',
   paragraphs: [
-    'BE SERVICES LTD, 5 Wadsworth Road, Perivale, Greenford, UB6 7JD, United Kingdom.',
-    'Email: info@beserviceslimited.co.uk. Phone: +447932055272.',
+    'REGIIS SERVICES UK LTD, 70 White Lion Street, London, N1 9PP, United Kingdom.',
+    'Email: info@regiisservices.co.uk. Phone: +447932055272.',
   ],
 }
 
@@ -13,12 +13,12 @@ export const legalPages: LegalPage[] = [
   {
     slug: 'privacy-policy',
     title: 'Privacy Policy',
-    summary: 'How personal information shared through this website or by contacting BE SERVICES LTD is used and protected.',
+    summary: 'How personal information shared through this website or by contacting REGIIS SERVICES UK LTD is used and protected.',
     sections: [
       {
         heading: 'Who we are',
         paragraphs: [
-          'This website is operated by BE SERVICES LTD, an interior design business based at 5 Wadsworth Road, Perivale, Greenford, UB6 7JD, United Kingdom. For the purposes of UK data protection law, BE SERVICES LTD is the controller of personal information it receives through enquiries.',
+          'This website is operated by REGIIS SERVICES UK LTD, an interior design business based at 70 White Lion Street, London, N1 9PP, United Kingdom. For the purposes of UK data protection law, REGIIS SERVICES UK LTD is the controller of personal information it receives through enquiries.',
         ],
       },
       {
@@ -33,7 +33,7 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'The website contact form',
         paragraphs: [
-          'The contact form on this website currently checks your details in your browser only. It is not connected to an email service or database, so information typed into it is not sent to or stored by BE SERVICES LTD. To make an enquiry, please email or call us directly.',
+          'The contact form on this website currently checks your details in your browser only. It is not connected to an email service or database, so information typed into it is not sent to or stored by REGIIS SERVICES UK LTD. To make an enquiry, please email or call us directly.',
           'If a form service is connected in future, this policy will be updated to name that service and explain how submitted information is handled.',
         ],
       },
@@ -120,7 +120,7 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'About these terms',
         paragraphs: [
-          'These terms apply to your use of this website, operated by BE SERVICES LTD. By using the website you agree to these terms. If you do not agree, please do not use the website.',
+          'These terms apply to your use of this website, operated by REGIIS SERVICES UK LTD. By using the website you agree to these terms. If you do not agree, please do not use the website.',
         ],
       },
       {
@@ -139,13 +139,13 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'Images',
         paragraphs: [
-          'Photographs on this website are used to illustrate interior design ideas and inspiration. Unless clearly stated, they do not show projects completed by BE SERVICES LTD.',
+          'Photographs on this website are used to illustrate interior design ideas and inspiration. Unless clearly stated, they do not show projects completed by REGIIS SERVICES UK LTD.',
         ],
       },
       {
         heading: 'Intellectual property',
         paragraphs: [
-          'The website design, text and branding are owned by or licensed to BE SERVICES LTD. Photographs are used under the licence of their respective sources. See our Intellectual Property Notice for more details.',
+          'The website design, text and branding are owned by or licensed to REGIIS SERVICES UK LTD. Photographs are used under the licence of their respective sources. See our Intellectual Property Notice for more details.',
         ],
       },
       {
@@ -175,13 +175,13 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'General information only',
         paragraphs: [
-          'The content of this website is intended as general information about BE SERVICES LTD and its interior design services. It is not professional advice for any specific project and should not be relied upon as such.',
+          'The content of this website is intended as general information about REGIIS SERVICES UK LTD and its interior design services. It is not professional advice for any specific project and should not be relied upon as such.',
         ],
       },
       {
         heading: 'Design inspiration imagery',
         paragraphs: [
-          'Images shown in the Design Inspiration gallery and elsewhere on the website are illustrative and sourced from stock photography. They are not presented as completed projects by BE SERVICES LTD.',
+          'Images shown in the Design Inspiration gallery and elsewhere on the website are illustrative and sourced from stock photography. They are not presented as completed projects by REGIIS SERVICES UK LTD.',
         ],
       },
       {
@@ -207,7 +207,7 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'Our commitment',
         paragraphs: [
-          'BE SERVICES LTD wants this website to be easy to use for everyone, including people who use assistive technologies. We have aimed to follow recognised good practice, such as the Web Content Accessibility Guidelines (WCAG) 2.2. This statement describes the steps taken; it is not a formal certification of compliance.',
+          'REGIIS SERVICES UK LTD wants this website to be easy to use for everyone, including people who use assistive technologies. We have aimed to follow recognised good practice, such as the Web Content Accessibility Guidelines (WCAG) 2.2. This statement describes the steps taken; it is not a formal certification of compliance.',
         ],
       },
       {
@@ -240,12 +240,12 @@ export const legalPages: LegalPage[] = [
   {
     slug: 'data-protection',
     title: 'Data Protection Information',
-    summary: 'A short summary of how BE SERVICES LTD approaches data protection.',
+    summary: 'A short summary of how REGIIS SERVICES UK LTD approaches data protection.',
     sections: [
       {
         heading: 'Overview',
         paragraphs: [
-          'BE SERVICES LTD handles personal information in line with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. Full details are set out in our Privacy Policy.',
+          'REGIIS SERVICES UK LTD handles personal information in line with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. Full details are set out in our Privacy Policy.',
         ],
       },
       {
@@ -275,7 +275,7 @@ export const legalPages: LegalPage[] = [
   {
     slug: 'complaints-policy',
     title: 'Complaints Policy',
-    summary: 'How to raise a concern with BE SERVICES LTD and how it will be handled.',
+    summary: 'How to raise a concern with REGIIS SERVICES UK LTD and how it will be handled.',
     sections: [
       {
         heading: 'Our aim',
@@ -316,7 +316,7 @@ export const legalPages: LegalPage[] = [
       {
         heading: 'Ownership',
         paragraphs: [
-          'Unless otherwise stated, the text, layout, design and BE SERVICES LTD name and branding on this website are owned by or licensed to BE SERVICES LTD.',
+          'Unless otherwise stated, the text, layout, design and REGIIS SERVICES UK LTD name and branding on this website are owned by or licensed to REGIIS SERVICES UK LTD.',
         ],
       },
       {

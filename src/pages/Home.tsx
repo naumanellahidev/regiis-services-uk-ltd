@@ -25,18 +25,18 @@ const steps = [
 
 export function Home() {
   usePageMeta(
-    'BE SERVICES LTD | Interior Design',
-    'Discover BE SERVICES LTD, an interior design business based in Greenford, London. Contact us to discuss your interior design enquiry.',
+    'REGIIS SERVICES UK LTD | Interior Design',
+    'Discover REGIIS SERVICES UK LTD, an interior design business based in Islington, London. Contact us to discuss your interior design enquiry.',
   )
   return (
     <>
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy fade-up">
-            <p className="eyebrow">Interior Design · Greenford, London</p>
+            <p className="eyebrow">Interior Design · Islington, London</p>
             <h1>Thoughtfully Designed Interiors. Beautifully Lived Spaces.</h1>
             <p className="lead">
-              BE SERVICES LTD focuses on interior design, bringing together considered spaces, thoughtful details and a refined approach to residential interiors.
+              REGIIS SERVICES UK LTD focuses on interior design, bringing together considered spaces, thoughtful details and a refined approach to residential interiors.
             </p>
             <div className="btn-row">
               <Link to="/services" className="btn btn-primary">Explore Our Services <ArrowRight size={18} aria-hidden="true" /></Link>
@@ -58,7 +58,7 @@ export function Home() {
             <p className="eyebrow">Introduction</p>
             <h2>Interiors Designed Around the Way You Live</h2>
             <p>
-              BE SERVICES LTD is an interior design business based in Greenford, London. We believe a well-designed home starts with understanding how each space is used, then shaping it with care.
+              REGIIS SERVICES UK LTD is an interior design business based in Islington, London. We believe a well-designed home starts with understanding how each space is used, then shaping it with care.
             </p>
             <p>
               Our focus is on thoughtful planning, balanced aesthetics and comfortable, functional rooms: the kind of spaces that feel calm, look considered and work well for everyday life.

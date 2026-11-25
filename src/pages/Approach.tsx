@@ -29,7 +29,7 @@ const steps = [
 ]
 
 export function Approach() {
-  usePageMeta('Our Approach', 'A simple, considered approach to interior design from BE SERVICES LTD: initial discussion, understanding the space, exploring ideas and refining the direction.')
+  usePageMeta('Our Approach', 'A simple, considered approach to interior design from REGIIS SERVICES UK LTD: initial discussion, understanding the space, exploring ideas and refining the direction.')
   return (
     <>
       <PageHero

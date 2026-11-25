@@ -12,7 +12,7 @@ function setMeta(attr: 'name' | 'property', key: string, value: string) {
 
 export function usePageMeta(title: string, description: string) {
   useEffect(() => {
-    const full = title.includes('BE SERVICES LTD') ? title : `${title} | BE SERVICES LTD`
+    const full = title.includes('REGIIS SERVICES UK LTD') ? title : `${title} | REGIIS SERVICES UK LTD`
     document.title = full
     setMeta('name', 'description', description)
     setMeta('property', 'og:title', full)

@@ -1,14 +1,15 @@
 export const business = {
-  name: 'BE SERVICES LTD',
+  name: 'REGIIS SERVICES UK LTD',
   type: 'Interior Design',
-  addressLines: ['5 Wadsworth Road', 'Perivale, Greenford', 'UB6 7JD, United Kingdom'],
-  addressOneLine: '5 Wadsworth Road, Perivale, Greenford, UB6 7JD, United Kingdom',
-  email: 'info@beserviceslimited.co.uk',
+  addressLines: ['70 White Lion Street', 'London', 'N1 9PP, United Kingdom'],
+  addressOneLine: '70 White Lion Street, London, N1 9PP, United Kingdom',
+  email: 'info@regiisservices.co.uk',
   phone: '+447932055272',
   phoneDisplay: '+44 7932 055272',
   tel: 'tel:+447932055272',
-  mailto: 'mailto:info@beserviceslimited.co.uk',
-  maps: 'https://www.google.com/maps/search/?api=1&query=5+Wadsworth+Road%2C+Perivale%2C+Greenford%2C+UB6+7JD%2C+United+Kingdom',}
+  mailto: 'mailto:info@regiisservices.co.uk',
+  maps: 'https://www.google.com/maps/search/?api=1&query=70+White+Lion+Street%2C+London%2C+N1+9PP%2C+United+Kingdom',
+}
 
 export const img = (id: string, w = 1200) =>
   `https://images.unsplash.com/photo-${id}?w=${w}&q=80&auto=format&fit=crop`

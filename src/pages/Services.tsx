@@ -7,7 +7,7 @@ import { Reveal } from '../components/Reveal'
 import { usePageMeta } from '../components/usePageMeta'
 
 export function Services() {
-  usePageMeta('Interior Design Services', 'Explore the interior design services offered by BE SERVICES LTD, from living rooms, bedrooms, kitchens and bathrooms to whole-home interior design.')
+  usePageMeta('Interior Design Services', 'Explore the interior design services offered by REGIIS SERVICES UK LTD, from living rooms, bedrooms, kitchens and bathrooms to whole-home interior design.')
   const featured = services.slice(0, 2)
   const rest = services.slice(2)
   return (

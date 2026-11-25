@@ -22,7 +22,7 @@ function validate(f: Fields): Errors {
 }
 
 export function Contact() {
-  usePageMeta('Contact Us', 'Contact BE SERVICES LTD in Greenford, London. Call +447932055272 or email info@beserviceslimited.co.uk to discuss your interior design enquiry.')
+  usePageMeta('Contact Us', 'Contact REGIIS SERVICES UK LTD in Islington, London. Call +447932055272 or email info@regiisservices.co.uk to discuss your interior design enquiry.')
   const [fields, setFields] = useState<Fields>(empty)
   const [errors, setErrors] = useState<Errors>({})
   const [sent, setSent] = useState(false)
@@ -68,7 +68,7 @@ export function Contact() {
         <div className="container contact-grid">
           <div className="contact-info">
             <div className="info-card">
-              <h2>BE SERVICES LTD</h2>
+              <h2>REGIIS SERVICES UK LTD</h2>
               <ul className="info-list">
                 <li>
                   <MapPin size={20} aria-hidden="true" />

@@ -2,10 +2,10 @@ import { Link } from '@tanstack/react-router'
 
 export function Logo() {
   return (
-    <Link to="/" className="logo" aria-label="BE SERVICES LTD home">
-      <span className="logo-mark" aria-hidden="true">BE</span>
+    <Link to="/" className="logo" aria-label="REGIIS SERVICES UK LTD home">
+      <span className="logo-mark" aria-hidden="true">RS</span>
       <span className="logo-text">
-        BE SERVICES <span>LTD</span>
+        REGIIS SERVICES <span>UK LTD</span>
       </span>
     </Link>
   )

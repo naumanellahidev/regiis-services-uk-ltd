@@ -23,7 +23,7 @@ export function PageHero({ eyebrow, title, text, photo, alt, children }: { eyebr
   )
 }
 
-export function CtaBand({ title = 'Planning an Interior Refresh?', text = 'Get in touch with BE SERVICES LTD to discuss your interior design enquiry.' }: { title?: string; text?: string }) {
+export function CtaBand({ title = 'Planning an Interior Refresh?', text = 'Get in touch with REGIIS SERVICES UK LTD to discuss your interior design enquiry.' }: { title?: string; text?: string }) {
   return (
     <section className="section">
       <Reveal className="container">
